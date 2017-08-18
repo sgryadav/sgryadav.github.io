@@ -1,0 +1,158 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+
+
+#me{
+	position: relative;
+	width: 80%;
+	left: 20%;
+	top: 100%;
+
+}
+
+
+#intro{
+	font-family: "Arial", "Arial Narrow", "Tahoma";
+	font-size: 35px;
+	color: #58584d;
+}
+
+#navText{
+	font-family: "Trebuchet MS", "Arial Narrow", "Tahoma";
+	color: black;
+	font-weight: bold;
+
+}
+
+.jumbotron{
+	background: #D0E7E7;
+}
+
+#footerText{
+	font-size: 14px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#navbar{
+	background: #e6e6dc;
+}
+
+#footerBar{
+	background: #e6e6dc;
+}
+
+#icons{
+	position: relative;
+	top: 150px;
+}
+
+#laptop{
+	position: relative;
+	right: -20%;
+}
+
+#building{
+	position: relative;
+	right: -40%;
+}
+
+a.Linkedin:hover{
+
+}
+
+#linkedin{
+	position: absolute;
+	top: 30px;
+	left: 100px;
+	max-width: 100%;
+}
+
+#mail{
+	position: absolute;
+	top: 30px;
+	left: 160px;
+	max-width: 100%;
+
+
+}
+
+body{
+	background: #f0f3f4;
+}
+
+li {
+	border-right: 1px solid #000000;
+}
+
+#homeTab{
+	border-left: 1px solid #000000;
+}
+
+#nameTitle{
+	color: #afaf4f;
+
+}
+
+
+hr{
+	border: 1px solid #afaf4f;;
+}
+
+#headphones{
+	position: relative;
+	right: -15%;
+}
+
+#plane{
+	position: relative;
+	right: -25%;
+}
+
+#globe{
+	position: relative;
+	right: -35%;
+}
+
+#gradCap{
+	position: relative;
+	left: 5%;
+}
+
+
+#desktop{
+	position: relative;
+	left: 15%;
+}
+
+#line-chart{
+	position: relative;
+	left: 30%;
+
+}
+
+#breadCrumb{
+	opacity: 1;
+	color: #d3d3d3;
+	font-family: Georgia, serif;
+}
+
+
+#description{
+	font-size: 18px;
+}
+
+#descPoints{
+	border: 0px;
+}
+
+#diagsosys{
+	width: 80%;
+}
+
