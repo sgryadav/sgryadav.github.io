@@ -46,6 +46,7 @@ html,body
 
 #footerBar{
 	background: #e6e6dc;
+	position: fixed;
 }
 
 #icons{
