@@ -13,8 +13,7 @@ html,body
 	position: relative;
 	width: 80%;
 	left: 20%;
-	top: 100%;
-
+	top: -45;
 }
 
 
@@ -95,6 +94,11 @@ li {
 #nameTitle{
 	color: #afaf4f;
 
+}
+
+.introtext{
+	position: relative;
+	bottom: 20%;
 }
 
 
