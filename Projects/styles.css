@@ -64,9 +64,6 @@ html,body
 	right: -40%;
 }
 
-a.Linkedin:hover{
-	
-}
 
 #linkedin{
 	position: relative;
@@ -97,7 +94,10 @@ li {
 
 }
 
-
+#recipeShare{
+	width: 200px;
+	height: 200px;
+}
 hr{
 	border: 1px solid #afaf4f;;
 }
