@@ -38,17 +38,18 @@ html,body
 #footerText{
 	font-size: 14px;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-right: 110px;
 }
 
 #navbar{
 	background: #e6e6dc;
 }
 
-#footerBar{
+.footerBar{
 	background: #e6e6dc;
 	position: fixed;
 	bottom: 0;
-	width: 1400px;
+	width: 100%;
 }
 
 #icons{
@@ -66,9 +67,6 @@ html,body
 	right: -40%;
 }
 
-a.Linkedin:hover{
-	
-}
 
 #linkedin{
 	position: relative;
