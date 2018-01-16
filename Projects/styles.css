@@ -150,8 +150,19 @@ hr{
 	border: 0px;
 }
 
-#wishlist{
+#wishlist, #userbook{
 	height: 150px;
 	width: 150px;
+}
+
+#userbook{
+	margin-right: 30px;
+	margin-bottom: 70px;
+}
+
+
+.userbookpro{
+	margin-top: 140px;
+	
 }
 
